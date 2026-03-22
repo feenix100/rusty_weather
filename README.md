@@ -126,8 +126,8 @@ This makes it a good portfolio project, a good learning project, and a good app 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cyber-weather-console.git
-cd cyber-weather-console
+git clone https://github.com/feenix100/rusty_weather.git
+cd rusty_weather
 ```
 
 Run the App
@@ -155,4 +155,4 @@ You can use this app to:
 
 ### License
 
-MIT License
+The Unlicense
